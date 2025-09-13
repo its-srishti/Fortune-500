@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Data
+*.csv.zip
+*.log
+*.tmp
+
+# Environment
+.env
+.venv/
+*.egg-info/
