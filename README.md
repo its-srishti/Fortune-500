@@ -1,5 +1,6 @@
 # Fortune 500 Revenue Forecasting
-## It applies **time-series forecasting models** to predict the future revenues of Fortune 500 companies using more than **33,000 data points**. The analysis leverages both traditional statistical methods and deep learning models to benchmark forecasting performance.  
+## This applies **time-series forecasting models** to predict the future revenues of Fortune 500 companies using more than **33,000 data points**. 
+## The analysis leverages both traditional statistical methods and deep learning models to benchmark forecasting performance.  
 
 ---
 
