@@ -58,4 +58,4 @@ pip install -r requirements.txt
 
 ---
 
-### Author - Srishti Tripathy
+### ✍️ Author - Srishti Tripathy
