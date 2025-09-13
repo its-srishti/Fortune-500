@@ -54,3 +54,8 @@ Clone this repository and install the requirements:
 git clone https://github.com/its-srishti/fortune500-revenue-forecasting.git
 cd fortune500-revenue-forecasting
 pip install -r requirements.txt
+```
+
+---
+
+### Author - Srishti Tripathy
